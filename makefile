@@ -1,4 +1,5 @@
 Readme:guessinggame.sh
+	echo \# Simple prompt game
 	echo \## File Information  > README.md
 	echo -n - \*\*README creation\*\* :  >> README.md
 	date +%D" "%H:%M >> README.md
